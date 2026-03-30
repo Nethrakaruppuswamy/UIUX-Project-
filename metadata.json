@@ -1,0 +1,8 @@
+{
+  "name": "ElderlyCare MedRemind",
+  "description": "A premium, high-contrast medication reminder system designed specifically for elderly care with LocalStorage persistence, browser notifications, an AI Med Assistant with Google Search grounding, and a Pharmacy Finder with Google Maps grounding.",
+  "requestFramePermissions": [
+    "notifications",
+    "geolocation"
+  ]
+}
